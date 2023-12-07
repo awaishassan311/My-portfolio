@@ -10,7 +10,7 @@ const SocialMedia = () => (
   <div className="app__social">
     <div>
       <a
-        href="https://github.com/aminullahdeveloper"
+        href="https://github.com/awaishassan311"
         target="_blank"
         rel="noreferrer"
       >
@@ -23,7 +23,7 @@ const SocialMedia = () => (
     </div>
     <div>
       <a
-        href="https://www.linkedin.com/in/aminullah-jalal/"
+        href="https://www.linkedin.com/in/m-awais-hassan-bilal-a7908017b/"
         target="_blank"
         rel="noreferrer"
       >
@@ -36,7 +36,7 @@ const SocialMedia = () => (
     </div>
     <div>
       <a
-        href="https://wellfound.com/u/amin-jalal"
+        href="w"
         target="_blank"
         rel="noreferrer"
       >
