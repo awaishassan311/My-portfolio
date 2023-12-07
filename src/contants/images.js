@@ -35,10 +35,6 @@ import asus from '../assets/asus.png';
 import bolt from '../assets/bolt.png';
 import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
-
-import spotify from '../assets/spotify.png';
-import plancv from '../assets/plancv.jpg';
-import plansrow from '../assets/plansrow.png';
 import porto from '../assets/porto.PNG';
 import school from '../assets/school.PNG';
 import fitness from '../assets/fitness.PNG';
@@ -64,8 +60,6 @@ export default {
   sanity,
   rapidapi,
   next,
-  plancv,
-  plansrow,
   porto,
   school,
   fitness,
@@ -103,7 +97,7 @@ export default {
   bolt,
   nb,
   skype,
-  spotify,
+
   email3d,
   coffee,
 };
