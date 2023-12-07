@@ -12,7 +12,7 @@ const About = () => {
       title: "Web Designer",
       imgUrl: images.about01,
       description:
-        "Helping companies and individuals with creative solutions for more than 5 years with Web Graphic design, User Interface design, and User Experience design. ",
+        "Helping companies and individuals with creative solutions for more than 1 years with Web Graphic design, User Interface design, and User Experience design. ",
     },
     {
       title: "Front End Developer",
@@ -45,7 +45,7 @@ const About = () => {
   return (
     <>
       <h2 className="head-text">
-        App development made <span>simpler</span>
+        Web development made <span>simpler</span>
       </h2>
 
       <div className="app__profiles">

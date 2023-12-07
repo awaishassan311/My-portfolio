@@ -35,11 +35,10 @@ import asus from '../assets/asus.png';
 import bolt from '../assets/bolt.png';
 import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
-import porto from '../assets/porto.PNG';
-import school from '../assets/school.PNG';
-import fitness from '../assets/fitness.PNG';
-import youtube from '../assets/youtube.PNG';
-import blog from '../assets/blog.PNG';
+import school from '../assets/school.png';
+import portfolio from '../assets/portfolio.png';
+import website from '../assets/website.png';
+
 import rapidapi from '../assets/rapidapi.png';
 import next from '../assets/next.png';
 import sanity from '../assets/sanity.png';
@@ -48,24 +47,25 @@ import googlemap from '../assets/googlemap.png';
 import dropbox from '../assets/dropbox.png';
 import puppeteer from '../assets/puppeteer.png';
 import tailwind from '../assets/tailwind.png';
-
+import burger from '../assets/burger.png';
+import halal from '../assets/halal.png';
 // badges - work badges --------------------------
 
 export default {
   tailwind,
+  website,
+  burger,
+  portfolio,
+  halal,
   puppeteer,
   googlemap,
   dropbox,
+  school,
   graphcms,
   sanity,
   rapidapi,
   next,
-  porto,
-  school,
-  fitness,
-  youtube,
-  blog,
-  email,
+ email,
   mobile,
   api,
   cpp,
