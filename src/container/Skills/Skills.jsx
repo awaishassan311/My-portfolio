@@ -117,15 +117,15 @@ const Skills = () => {
           ))}
         </motion.div>
         <div className="app__skills-exp">
-          {experiences.map((experience) => (
-            <motion.div className="app__skills-exp-item" key={experience.year}>
+        {experiences.map((experience, index) => (
+            <motion.div className="app__skills-exp-item" key={experience.year + index}>
               <div className="app__skills-exp-year">
                 <p className="bold-text">{experience.year}</p>
                 <p className="p-text">{experience.month}</p>
               </div>
     
               <motion.div className="app__skills-exp-works">
-                {experience.works.map((work) => (
+              {experience.works.map((work) => (
                   <>
                     <motion.div
                       whileInView={{ opacity: [0, 1] }}
@@ -139,7 +139,7 @@ const Skills = () => {
                       <p className="p-text">{work.company}</p>
                       {Array.isArray(work.desc) ? (
                         <ul>
-                          {work.desc.map((point, index) => (
+                        {work.desc.map((point, index) => (
                             <li key={index}>{point}</li>
                           ))}
                         </ul>
