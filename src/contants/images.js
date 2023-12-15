@@ -48,10 +48,22 @@ import dropbox from '../assets/dropbox.png';
 import puppeteer from '../assets/puppeteer.png';
 import tailwind from '../assets/tailwind.png';
 import burger from '../assets/burger.png';
+import excel from '../assets/exce.png';
+import powerpoint from '../assets/powerpoint.png';
+import office from '../assets/office.png';
 import halal from '../assets/halal.png';
+import crm from '../assets/crm.png';
+import mailchimp from '../assets/mailchimp.png';
+import phantom from '../assets/phantom.svg';
 // badges - work badges --------------------------
 
 export default {
+  excel,
+  crm,
+  phantom,
+  mailchimp,
+  powerpoint,
+  office,
   tailwind,
   website,
   burger,

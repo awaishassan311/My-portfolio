@@ -4,7 +4,7 @@ import Navbar from './components/Navbar/Navbar';
 import Header from './container/Header/Header';
 import About from './container/About/About';
 import Work from './container/Work/Work';
-
+import Skills from './container/Skills/Skills';
 function App() {
   return (
    <div>
@@ -12,6 +12,7 @@ function App() {
    <Header/>
     <About />
     <Work/>
+    <Skills/>
    </div>
   );
 }

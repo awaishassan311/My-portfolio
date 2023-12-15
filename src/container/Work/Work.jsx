@@ -16,7 +16,7 @@ const Work = () => {
     {
       imgUrl: images.school,
       name: 'School Facility Pro',
-      projectLink: 'https://schoolfacilitypro.com/',
+      projectLink: 'https://oval-project-management-system-d27b.vercel.app/',
       title: 'School Districts Master Planning',
       description:
         'School facility pro is a master planning web app for managing, locating, and reporting system of school districts, we proudly complete this project and now over 180+ school districts in California use this platform for managing the data of their schools.',
